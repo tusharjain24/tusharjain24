@@ -25,7 +25,7 @@ Hi,I'm Tushar Jain🙌, a Web Developer and Cloud Enthusiast. Apart from that I 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
+- 🔭 I’m currently Intern at Qspiders.
 - 🌱 I’m currently learning NodeJs.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
