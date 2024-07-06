@@ -4,18 +4,13 @@
 <br/>
 
 
-<a href="https://x.com/_Tushar_Jain_">
-<img align="left" alt="Tushr Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style = "color: white;"/>
-</a>
-<a href="https://www.linkedin.com/in/tusharjain0/">
-<img align="left" alt="Tushar Jain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style= "color: white"/>
-</a>
-<a href="https://www.instagram.com/tusharjain_2000/">
-<img align="left" alt="Tushar Jain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style = "color: white"/>
-</a>
-<br />
+### 🤝 Connect with me:
 
-<br />
+<a href="https://www.linkedin.com/in/tusharjain0/"><img align="left" src="https://raw.githubusercontent.com/tusharjsin24/tusharjsin24/main/images/linkedin.svg" alt="Tushar Jain | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/tusharjain2000"><img align="left" src="https://raw.githubusercontent.com/tusharjsin24/tusharjsin24/main/images/instagram.svg" alt="Tushar Jain | Instagram" width="21px"/></a>
+<a href ="https://x.com/_Tushar_Jain_"><img align="left" src="https://raw.githubusercontent.com/tusharjain24/tusharjain24/main/images/x.svg" alt = "Tushar Jain | X" width = "21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 Hi,I'm Tushar Jain🙌, a Web Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
