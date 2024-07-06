@@ -5,13 +5,13 @@
 
 
 <a href="https://x.com/_Tushar_Jain_">
-<img align="left" alt="Tushr Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color = white"/>
+<img align="left" alt="Tushr Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style = "color: white"/>
 </a>
 <a href="https://www.linkedin.com/in/tusharjain0/">
-<img align="left" alt="Tushar Jain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color = white"/>
+<img align="left" alt="Tushar Jain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style= "color: white"/>
 </a>
 <a href="https://www.instagram.com/tusharjain_2000/">
-<img align="left" alt="Tushar Jain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color = white"/>
+<img align="left" alt="Tushar Jain" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style = "color: white"/>
 </a>
 <br />
 
